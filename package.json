@@ -1,0 +1,22 @@
+{
+  "name": "hexo-pinyin-plugin",
+  "version": "1.0.0",
+  "description": "Translate the Chinese into pinyin",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "hexo",
+    "permalink",
+    "hexo-pinyin-plugin"
+  ],
+  "dependencies": {
+    "hexo-front-matter": "^2.0.0",
+    "transliteration": "^2.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kavience/hexo-pinyin-plugin"
+  },
+  "author": "cometlj",
+  "license": "MIT"
+}
